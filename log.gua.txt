@@ -1,0 +1,2 @@
+2019/07/11 23:12:24 请求方法 GET
+2019/07/11 23:12:24 request, query 参数 ImmutableMultiDict([])
