@@ -90,7 +90,7 @@ if __name__ == '__main__':
     )
     app.run(**config)
     print('test35555')
-    print('hahahah1244451233')
+    print('hahahah1244451233888')
     # app.run() 开始运行服务器
     # 所以你访问下面的网址就可以打开网站了
     # http://127.0.0.1:2000/
